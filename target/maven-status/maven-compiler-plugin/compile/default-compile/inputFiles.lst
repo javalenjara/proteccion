@@ -1,0 +1,11 @@
+E:\code\Proteccion\imgProcessor\src\main\java\com\proteccion\imgprocessor\Main.java
+E:\code\Proteccion\imgProcessor\src\main\java\com\proteccion\imgprocessor\services\SuitableService.java
+E:\code\Proteccion\imgProcessor\src\main\java\com\proteccion\imgprocessor\entities\Dimension.java
+E:\code\Proteccion\imgProcessor\src\main\java\com\proteccion\imgprocessor\entities\Image.java
+E:\code\Proteccion\imgProcessor\src\main\java\com\proteccion\imgprocessor\exception\ImageNotSuitableException.java
+E:\code\Proteccion\imgProcessor\src\main\java\com\proteccion\imgprocessor\entities\Orientation.java
+E:\code\Proteccion\imgProcessor\src\main\java\com\proteccion\imgprocessor\exception\ErrorDetails.java
+E:\code\Proteccion\imgProcessor\src\main\java\com\proteccion\imgprocessor\exception\GlobalExceptionHandler.java
+E:\code\Proteccion\imgProcessor\src\main\java\com\proteccion\imgprocessor\services\SuitableServiceImplForA4.java
+E:\code\Proteccion\imgProcessor\src\main\java\com\proteccion\imgprocessor\services\ResizableService.java
+E:\code\Proteccion\imgProcessor\src\main\java\com\proteccion\imgprocessor\services\ResizableServiceImplForA4.java

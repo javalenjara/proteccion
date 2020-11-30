@@ -1,0 +1,12 @@
+com\proteccion\imgprocessor\services\ResizableService.class
+com\proteccion\imgprocessor\services\SuitableServiceImplForA4.class
+com\proteccion\imgprocessor\entities\Image.class
+com\proteccion\imgprocessor\exception\ImageNotSuitableException.class
+com\proteccion\imgprocessor\entities\Image$ImageBuilder.class
+com\proteccion\imgprocessor\exception\ErrorDetails.class
+com\proteccion\imgprocessor\entities\Orientation.class
+com\proteccion\imgprocessor\exception\GlobalExceptionHandler.class
+com\proteccion\imgprocessor\entities\Dimension.class
+com\proteccion\imgprocessor\Main.class
+com\proteccion\imgprocessor\services\ResizableServiceImplForA4.class
+com\proteccion\imgprocessor\services\SuitableService.class
